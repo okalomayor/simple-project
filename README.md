@@ -124,7 +124,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, feedback, or support, please contact [chrispine buxtone ooko](chrispinebux@gmail.com).
+For questions, feedback, or support, please contact [chrispine buxtone ooko][chrispinebux@gmail.com].
 
 
 
